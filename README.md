@@ -1,0 +1,2 @@
+# coole-bot
+denkkracht dingetje :)
